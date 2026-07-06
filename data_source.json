@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tx_001",
+    "amount": "100.50",
+    "currency": "USD",
+    "timestamp": "2025-03-10 14:22:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": 204,
+    "total": 10050,
+    "currency_code": "usd",
+    "created_at": "10/03/2025 14:22",
+    "state": "OK"
+  },
+  {
+    "ref": "A-77",
+    "amount": "€99,99",
+    "currency": "EUR",
+    "date": "2025-03-10T14:22:00Z",
+    "result": "success"
+  },
+  {
+    "id": "tx_erronea_1",
+    "amount": "MontoInvalido",
+    "currency": "USD",
+    "timestamp": "2025-03-10 14:22:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": 205,
+    "total": 500,
+    "currency_code": "YEN",
+    "created_at": "FechaInvalida",
+    "state": "Desconocido"
+  }
+]
